@@ -2,9 +2,20 @@
     color:blueviolet;
     background-color: black;
     
-
 }
 
 h1 {
     text-align: center;
+}
+
+.lasagna-link {
+    text-align: right; 
+}
+
+.chick-mar-link {
+    text-align: right;
+}
+
+.sand-link {
+    text-align: right;
 }
